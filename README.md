@@ -1,0 +1,2 @@
+# apinventaris
+Aplikasi Inventaris Barang
